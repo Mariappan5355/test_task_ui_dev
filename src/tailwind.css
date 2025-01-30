@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary-blue {
+    color: #003F6B !important;
+  }
+
+  .banner-bg{
+    background: url(../src/assets/Banner-bg.png) no-repeat center center;
+    background-size: cover;
+  }
+  
