@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/test_task_ui_dev/static/css/main.559efec8.css",
+    "main.js": "/test_task_ui_dev/static/js/main.245b29b4.js",
+    "static/js/488.dae1f1e4.chunk.js": "/test_task_ui_dev/static/js/488.dae1f1e4.chunk.js",
+    "static/media/Intern2.png": "/test_task_ui_dev/static/media/Intern2.a3240d383cd50e6d2225.png",
+    "static/media/Hero2.jpg": "/test_task_ui_dev/static/media/Hero2.0b0cec1db7a6f2dd90fe.jpg",
+    "static/media/Home2.png": "/test_task_ui_dev/static/media/Home2.3703038f6a9870bd53c8.png",
+    "static/media/Intern1.png": "/test_task_ui_dev/static/media/Intern1.46adf2bbaf73abf258c0.png",
+    "static/media/Living.png": "/test_task_ui_dev/static/media/Living.417411e9fd5073ad6ba8.png",
+    "static/media/Enquiry.png": "/test_task_ui_dev/static/media/Enquiry.f47c513ab85d016846c9.png",
+    "static/media/Intern5.png": "/test_task_ui_dev/static/media/Intern5.edf4f3d6f36886243cf6.png",
+    "static/media/Kitchen.png": "/test_task_ui_dev/static/media/Kitchen.5c1fab6cb2f9ac80c020.png",
+    "static/media/Author.png": "/test_task_ui_dev/static/media/Author.7f8990236b13c5ee1272.png",
+    "static/media/Living2.png": "/test_task_ui_dev/static/media/Living2.fb385dbc5917d917ee24.png",
+    "static/media/Banner-bg.png": "/test_task_ui_dev/static/media/Banner-bg.78e89258917ef41c89ba.png",
+    "static/media/post.png": "/test_task_ui_dev/static/media/post.9293e5c791e0171731a8.png",
+    "static/media/Intern4.png": "/test_task_ui_dev/static/media/Intern4.8955bfbdb66c0b8d664e.png",
+    "static/media/hero.png": "/test_task_ui_dev/static/media/hero.19a4d0ecca5073e382d3.png",
+    "static/media/Intern3.png": "/test_task_ui_dev/static/media/Intern3.1a077d0662bdca639ba0.png",
+    "static/media/Gardening.png": "/test_task_ui_dev/static/media/Gardening.627c5375f77fe5550ca3.png",
+    "static/media/Electricals.png": "/test_task_ui_dev/static/media/Electricals.0bd41323b52fb1400147.png",
+    "static/media/Gardening Set.png": "/test_task_ui_dev/static/media/Gardening Set.a2763f63784b3d4279d3.png",
+    "static/media/Interior.png": "/test_task_ui_dev/static/media/Interior.a2763f63784b3d4279d3.png",
+    "static/media/Stone.png": "/test_task_ui_dev/static/media/Stone.d11d6a485462c3251ad8.png",
+    "static/media/Home.png": "/test_task_ui_dev/static/media/Home.9f2a2f1f909e875b9f5e.png",
+    "static/media/Blog.png": "/test_task_ui_dev/static/media/Blog.5c462d1df278aa569f31.png",
+    "static/media/Bedroom.png": "/test_task_ui_dev/static/media/Bedroom.a543a9a7a5b94a215908.png",
+    "index.html": "/test_task_ui_dev/index.html",
+    "main.559efec8.css.map": "/test_task_ui_dev/static/css/main.559efec8.css.map",
+    "main.245b29b4.js.map": "/test_task_ui_dev/static/js/main.245b29b4.js.map",
+    "488.dae1f1e4.chunk.js.map": "/test_task_ui_dev/static/js/488.dae1f1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559efec8.css",
+    "static/js/main.245b29b4.js"
+  ]
+}
